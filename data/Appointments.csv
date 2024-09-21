@@ -1,0 +1,11 @@
+appointmentId,patientId,doctorId,appointmentDate,status
+1,1,2,2024-09-20,Booked
+2,2,1,2024-09-12,Canceled
+3,3,6,2024-09-25,Booked
+4,4,5,2024-09-15,Completed
+5,5,1,2024-09-28,Booked
+6,6,6,2024-09-20,Booked
+7,7,3,2024-09-22,Completed
+8,8,5,2024-09-17,Canceled
+9,9,8,2024-09-30,Booked
+10,10,10,2024-09-21,Booked

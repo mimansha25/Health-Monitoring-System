@@ -1,0 +1,11 @@
+id,name,age,gender,medicalHistory
+1,Rajesh,28,Male,"[BP, Fever]"
+2,Rohan,23,Male,"[Cancer, BP]"
+3,Anjali,30,Female,"[Diabetes]"
+4,Simran,45,Female,"[Asthma, High Blood Pressure]"
+5,John,55,Male,"[Heart Disease]"
+6,Arjun,40,Male,"[Diabetes, Obesity]"
+7,Shreya,35,Female,"[Thyroid]"
+8,Sophia,50,Female,"[Arthritis, Migraine]"
+9,Michael,65,Male,"[Cancer, High Cholesterol]"
+10,Emma,38,Female,"[Depression, Anxiety]"
